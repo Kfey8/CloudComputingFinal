@@ -22,3 +22,5 @@ find a solution to. Neither of us could afford the professional key so we had to
 ## What We Would Include If We Had More Time
 If we had more time we would like to configure the front end to be more clean and user friendly, as well as include other PC parts, such as CPU, Hard drive, power
 supply, SSD, and mother boards. We would also like to save up for the professional version of the eBay API key so that it could fully function on google cloud.
+
+https://youtu.be/rRzGZ8h_w48
